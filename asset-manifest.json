@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/On-Off-Color-change/static/css/main.b188f1a6.chunk.css",
+    "main.js": "/On-Off-Color-change/static/js/main.ef4ec7e2.chunk.js",
+    "main.js.map": "/On-Off-Color-change/static/js/main.ef4ec7e2.chunk.js.map",
+    "runtime-main.js": "/On-Off-Color-change/static/js/runtime-main.06611671.js",
+    "runtime-main.js.map": "/On-Off-Color-change/static/js/runtime-main.06611671.js.map",
+    "static/js/2.432d5d42.chunk.js": "/On-Off-Color-change/static/js/2.432d5d42.chunk.js",
+    "static/js/2.432d5d42.chunk.js.map": "/On-Off-Color-change/static/js/2.432d5d42.chunk.js.map",
+    "index.html": "/On-Off-Color-change/index.html",
+    "static/css/main.b188f1a6.chunk.css.map": "/On-Off-Color-change/static/css/main.b188f1a6.chunk.css.map",
+    "static/js/2.432d5d42.chunk.js.LICENSE.txt": "/On-Off-Color-change/static/js/2.432d5d42.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06611671.js",
+    "static/js/2.432d5d42.chunk.js",
+    "static/css/main.b188f1a6.chunk.css",
+    "static/js/main.ef4ec7e2.chunk.js"
+  ]
+}
